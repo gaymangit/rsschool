@@ -1,2 +1,2 @@
 # rsschool
-https://gaymangit.github.io/rsschool-cv/cv
+https://gaymangit.github.io/rsschool-cv/
